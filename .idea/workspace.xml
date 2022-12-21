@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61e9620c-26fa-47e4-b2d0-ebeead18498b" name="Changes" comment="">
+    <list default="true" id="61e9620c-26fa-47e4-b2d0-ebeead18498b" name="Changes" comment="Chapter 1">
+      <change afterPath="$PROJECT_DIR$/Chapter2/vending_machine1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2/vending_machine2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/fibonacci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1/long_sentence.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/long_sentence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1/tax_rate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/tax_rate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1/url.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/url.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1/url_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1/url_list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,20 +32,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\rhlan\PycharmProjects\algorithm\1day" />
       <recent name="C:\Users\rhlan\PycharmProjects\algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Day1_test">
+  <component name="RunManager" selected="Python.vending_machine2">
     <configuration name="Day1_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scope4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="vending_machine1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day1/scope4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter2/vending_machine1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scope5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="vending_machine2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,11 +159,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day1/scope5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter2/vending_machine2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.vending_machine2" />
+        <item itemvalue="Python.vending_machine1" />
         <item itemvalue="Python.Day1_test" />
         <item itemvalue="Python.list_array" />
         <item itemvalue="Python.calc" />
-        <item itemvalue="Python.scope5" />
-        <item itemvalue="Python.scope4" />
       </list>
     </recent_temporary>
   </component>
@@ -194,6 +191,21 @@
       <option name="presentableId" value="Default" />
       <updated>1670553097842</updated>
     </task>
+    <task id="LOCAL-00001" summary="Chapter 1">
+      <created>1670944183543</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670944183543</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Chapter 1">
+      <created>1670944218364</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670944218364</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,5 +218,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Chapter 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 1" />
   </component>
 </project>
