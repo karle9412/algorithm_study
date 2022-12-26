@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61e9620c-26fa-47e4-b2d0-ebeead18498b" name="Changes" comment="Chapter2">
-      <change afterPath="$PROJECT_DIR$/Chapter2/eratosthenes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/fibonacci1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/fibonacci2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/fibonacci3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/fibonacci4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/is_prime1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/is_prime2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/is_prime3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/sympy1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2/sympy2.py" afterDir="false" />
+    <list default="true" id="61e9620c-26fa-47e4-b2d0-ebeead18498b" name="Changes" comment="Chapter2 part2">
+      <change afterPath="$PROJECT_DIR$/Chapter2_test/Question_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter2_test/Question_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,8 +49,8 @@
       <recent name="C:\Users\rhlan\PycharmProjects\algorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.fibonacci4">
-    <configuration name="fibonacci1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Question_2">
+    <configuration name="Question_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,11 +58,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter2_test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter2/fibonacci1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter2_test/Question_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Question_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter2_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter2_test/Question_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,34 +176,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sympy2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter2/sympy2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Question_2" />
+        <item itemvalue="Python.Question_1" />
         <item itemvalue="Python.fibonacci4" />
         <item itemvalue="Python.fibonacci3" />
         <item itemvalue="Python.fibonacci2" />
-        <item itemvalue="Python.fibonacci1" />
-        <item itemvalue="Python.sympy2" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671889617081</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Chapter2 part2">
+      <created>1671897012378</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671897012378</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,6 +240,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Chapter 1" />
     <MESSAGE value="Chapter2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter2" />
+    <MESSAGE value="Chapter2 part2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter2 part2" />
   </component>
 </project>
